@@ -1,0 +1,66 @@
+.container {
+    background-color: rgba(172, 247, 221, 0.712);
+    padding: 20px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    width: 70%;
+    margin: auto;
+
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading img {
+    width: 100px;
+
+}
+
+.heading h1 {
+    text-transform: uppercase;
+
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 2px solid gray;
+
+
+}
+
+form h3 {
+    margin-right: 10px;
+
+}
+
+#addTaskBtn {
+    font-weight: 700;
+}
+
+.task-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+#myTask,
+#incomplete-task {
+    background-color: #fff;
+    padding: 10px;
+    margin-top: 50px;
+    font-weight: 700;
+    width: 45%;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+
+
+}
