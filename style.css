@@ -58,6 +58,10 @@ form h3 {
     border-radius: 8px;
 }
 
+#task {
+    list-style: none;
+}
+
 .title {
     text-transform: uppercase;
     text-align: center;
