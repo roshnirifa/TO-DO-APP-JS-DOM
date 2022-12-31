@@ -65,6 +65,10 @@ form h3 {
 .title {
     text-transform: uppercase;
     text-align: center;
+}
 
-
+.deleteBtn {
+    color: red;
+    margin-left: 10px;
+    font-weight: bold;
 }
